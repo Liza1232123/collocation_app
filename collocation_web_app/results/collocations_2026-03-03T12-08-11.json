@@ -1,0 +1,371 @@
+{
+  "collocations": [
+    {
+      "bigram": "горячий чай",
+      "dice": 1,
+      "frequency": 2,
+      "pmi": 5.443,
+      "t_score": 1.382
+    },
+    {
+      "bigram": "крепкий кофе",
+      "dice": 1,
+      "frequency": 2,
+      "pmi": 5.443,
+      "t_score": 1.382
+    },
+    {
+      "bigram": "вчера принял",
+      "dice": 1,
+      "frequency": 1,
+      "pmi": 6.443,
+      "t_score": 0.989
+    },
+    {
+      "bigram": "принял важное",
+      "dice": 1,
+      "frequency": 1,
+      "pmi": 6.443,
+      "t_score": 0.989
+    },
+    {
+      "bigram": "важное решение",
+      "dice": 0.4,
+      "frequency": 1,
+      "pmi": 4.443,
+      "t_score": 0.954
+    },
+    {
+      "bigram": "сестра принимает",
+      "dice": 1,
+      "frequency": 1,
+      "pmi": 6.443,
+      "t_score": 0.989
+    },
+    {
+      "bigram": "принимает правильные",
+      "dice": 1,
+      "frequency": 1,
+      "pmi": 6.443,
+      "t_score": 0.989
+    },
+    {
+      "bigram": "правильные решения",
+      "dice": 0.667,
+      "frequency": 1,
+      "pmi": 5.443,
+      "t_score": 0.977
+    },
+    {
+      "bigram": "должны принять",
+      "dice": 1,
+      "frequency": 1,
+      "pmi": 6.443,
+      "t_score": 0.989
+    },
+    {
+      "bigram": "принять окончательное",
+      "dice": 1,
+      "frequency": 1,
+      "pmi": 6.443,
+      "t_score": 0.989
+    },
+    {
+      "bigram": "окончательное решение",
+      "dice": 0.4,
+      "frequency": 1,
+      "pmi": 4.443,
+      "t_score": 0.954
+    },
+    {
+      "bigram": "решение сегодня",
+      "dice": 0.4,
+      "frequency": 1,
+      "pmi": 4.443,
+      "t_score": 0.954
+    },
+    {
+      "bigram": "пьет горячий",
+      "dice": 0.667,
+      "frequency": 1,
+      "pmi": 5.443,
+      "t_score": 0.977
+    },
+    {
+      "bigram": "чай каждое",
+      "dice": 0.667,
+      "frequency": 1,
+      "pmi": 5.443,
+      "t_score": 0.977
+    },
+    {
+      "bigram": "каждое утро",
+      "dice": 1,
+      "frequency": 1,
+      "pmi": 6.443,
+      "t_score": 0.989
+    },
+    {
+      "bigram": "друг предпочитает",
+      "dice": 1,
+      "frequency": 1,
+      "pmi": 6.443,
+      "t_score": 0.989
+    },
+    {
+      "bigram": "предпочитает крепкий",
+      "dice": 0.667,
+      "frequency": 1,
+      "pmi": 5.443,
+      "t_score": 0.977
+    },
+    {
+      "bigram": "кофе помогает",
+      "dice": 0.667,
+      "frequency": 1,
+      "pmi": 5.443,
+      "t_score": 0.977
+    },
+    {
+      "bigram": "помогает проснуться",
+      "dice": 1,
+      "frequency": 1,
+      "pmi": 6.443,
+      "t_score": 0.989
+    },
+    {
+      "bigram": "ученики решают",
+      "dice": 1,
+      "frequency": 1,
+      "pmi": 6.443,
+      "t_score": 0.989
+    },
+    {
+      "bigram": "решают сложные",
+      "dice": 1,
+      "frequency": 1,
+      "pmi": 6.443,
+      "t_score": 0.989
+    },
+    {
+      "bigram": "сложные задачи",
+      "dice": 0.667,
+      "frequency": 1,
+      "pmi": 5.443,
+      "t_score": 0.977
+    },
+    {
+      "bigram": "учитель решил",
+      "dice": 0.667,
+      "frequency": 1,
+      "pmi": 5.443,
+      "t_score": 0.977
+    },
+    {
+      "bigram": "решил проверить",
+      "dice": 0.667,
+      "frequency": 1,
+      "pmi": 5.443,
+      "t_score": 0.977
+    },
+    {
+      "bigram": "проверить решения",
+      "dice": 0.667,
+      "frequency": 1,
+      "pmi": 5.443,
+      "t_score": 0.977
+    },
+    {
+      "bigram": "решение задачи",
+      "dice": 0.333,
+      "frequency": 1,
+      "pmi": 3.443,
+      "t_score": 0.908
+    },
+    {
+      "bigram": "задачи заняло",
+      "dice": 0.667,
+      "frequency": 1,
+      "pmi": 5.443,
+      "t_score": 0.977
+    },
+    {
+      "bigram": "заняло времени",
+      "dice": 1,
+      "frequency": 1,
+      "pmi": 6.443,
+      "t_score": 0.989
+    },
+    {
+      "bigram": "мальчик моет",
+      "dice": 0.5,
+      "frequency": 1,
+      "pmi": 4.858,
+      "t_score": 0.966
+    },
+    {
+      "bigram": "моет окно",
+      "dice": 0.5,
+      "frequency": 1,
+      "pmi": 4.858,
+      "t_score": 0.966
+    },
+    {
+      "bigram": "девочка моет",
+      "dice": 0.5,
+      "frequency": 1,
+      "pmi": 4.858,
+      "t_score": 0.966
+    },
+    {
+      "bigram": "моет посуду",
+      "dice": 0.5,
+      "frequency": 1,
+      "pmi": 4.858,
+      "t_score": 0.966
+    },
+    {
+      "bigram": "мама моет",
+      "dice": 0.5,
+      "frequency": 1,
+      "pmi": 4.858,
+      "t_score": 0.966
+    },
+    {
+      "bigram": "моет полы",
+      "dice": 0.5,
+      "frequency": 1,
+      "pmi": 4.858,
+      "t_score": 0.966
+    },
+    {
+      "bigram": "громко лает",
+      "dice": 1,
+      "frequency": 1,
+      "pmi": 6.443,
+      "t_score": 0.989
+    },
+    {
+      "bigram": "тихо мяукает",
+      "dice": 1,
+      "frequency": 1,
+      "pmi": 6.443,
+      "t_score": 0.989
+    },
+    {
+      "bigram": "птицы весело",
+      "dice": 1,
+      "frequency": 1,
+      "pmi": 6.443,
+      "t_score": 0.989
+    },
+    {
+      "bigram": "весело поют",
+      "dice": 1,
+      "frequency": 1,
+      "pmi": 6.443,
+      "t_score": 0.989
+    },
+    {
+      "bigram": "девушка гуляет",
+      "dice": 1,
+      "frequency": 1,
+      "pmi": 6.443,
+      "t_score": 0.989
+    },
+    {
+      "bigram": "гуляет парке",
+      "dice": 1,
+      "frequency": 1,
+      "pmi": 6.443,
+      "t_score": 0.989
+    },
+    {
+      "bigram": "украшен цветами",
+      "dice": 1,
+      "frequency": 1,
+      "pmi": 6.443,
+      "t_score": 0.989
+    },
+    {
+      "bigram": "красивое платье",
+      "dice": 1,
+      "frequency": 1,
+      "pmi": 6.443,
+      "t_score": 0.989
+    },
+    {
+      "bigram": "платье висит",
+      "dice": 1,
+      "frequency": 1,
+      "pmi": 6.443,
+      "t_score": 0.989
+    },
+    {
+      "bigram": "висит шкафу",
+      "dice": 1,
+      "frequency": 1,
+      "pmi": 6.443,
+      "t_score": 0.989
+    },
+    {
+      "bigram": "быстро бежит",
+      "dice": 0.667,
+      "frequency": 1,
+      "pmi": 5.443,
+      "t_score": 0.977
+    },
+    {
+      "bigram": "бежит спортсмен",
+      "dice": 1,
+      "frequency": 1,
+      "pmi": 6.443,
+      "t_score": 0.989
+    },
+    {
+      "bigram": "быстрое решение",
+      "dice": 0.4,
+      "frequency": 1,
+      "pmi": 4.443,
+      "t_score": 0.954
+    },
+    {
+      "bigram": "решение проблемы",
+      "dice": 0.4,
+      "frequency": 1,
+      "pmi": 4.443,
+      "t_score": 0.954
+    },
+    {
+      "bigram": "проблемы найдено",
+      "dice": 1,
+      "frequency": 1,
+      "pmi": 6.443,
+      "t_score": 0.989
+    },
+    {
+      "bigram": "очень быстро",
+      "dice": 0.5,
+      "frequency": 1,
+      "pmi": 4.443,
+      "t_score": 0.954
+    },
+    {
+      "bigram": "быстро решил",
+      "dice": 0.5,
+      "frequency": 1,
+      "pmi": 4.443,
+      "t_score": 0.954
+    },
+    {
+      "bigram": "решил вопросы",
+      "dice": 0.667,
+      "frequency": 1,
+      "pmi": 5.443,
+      "t_score": 0.977
+    }
+  ],
+  "total_bigrams": 62,
+  "total_words": 87,
+  "unique_words": 73
+}
